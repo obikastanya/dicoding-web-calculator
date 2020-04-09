@@ -44,3 +44,9 @@ body{
     padding: 30px;
     margin-top: 20px;
 }
+/* media query digunakan untuk mengatur responsibilitas dari website */
+@media screen and (max-width:513px){
+    .button{
+    padding: 10px;
+}
+}
